@@ -20,11 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4e5865-3cb8-45c9-be57-d965160c1877" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +34,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hrODEciW2oezjzXvhDtYxcLCyX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -67,7 +70,7 @@
       <updated>1600765624265</updated>
       <workItem from="1600765626284" duration="1283000" />
       <workItem from="1600767614807" duration="2849000" />
-      <workItem from="1600776027644" duration="18000" />
+      <workItem from="1600776027644" duration="2257000" />
     </task>
     <servers />
   </component>
@@ -86,7 +89,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600778184880">
+      <screen x="85" y="27" width="1281" height="741" />
+    </state>
+    <state x="320" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/85.27.1281.741@85.27.1281.741" timestamp="1600778184880" />
     <state x="389" y="174" key="run.anything.popup" timestamp="1600774108405">
       <screen x="85" y="27" width="1281" height="741" />
     </state>
