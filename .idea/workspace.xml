@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f4e5865-3cb8-45c9-be57-d965160c1877" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/favicon2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -71,7 +70,18 @@
       <workItem from="1600765626284" duration="1283000" />
       <workItem from="1600767614807" duration="2849000" />
       <workItem from="1600776027644" duration="2257000" />
+      <workItem from="1600778324985" duration="968000" />
+      <workItem from="1600779681851" duration="606000" />
+      <workItem from="1600780511364" duration="120000" />
     </task>
+    <task id="LOCAL-00001" summary="3&#10;derde commit">
+      <created>1600778372652</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600778372652</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,9 +101,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="3&#10;derde commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3&#10;derde commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="487" y="181" width="467" height="439" key="#Web_Browsers" timestamp="1600779710615">
+      <screen x="85" y="27" width="1281" height="741" />
+    </state>
+    <state x="487" y="181" width="467" height="439" key="#Web_Browsers/85.27.1281.741@85.27.1281.741" timestamp="1600779710615" />
+    <state x="420" y="81" width="600" height="640" key="RollbackChangesDialog" timestamp="1600778437101">
+      <screen x="85" y="27" width="1281" height="741" />
+    </state>
+    <state x="420" y="81" width="600" height="640" key="RollbackChangesDialog/85.27.1281.741@85.27.1281.741" timestamp="1600778437101" />
     <state x="320" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1600778184880">
       <screen x="85" y="27" width="1281" height="741" />
     </state>
