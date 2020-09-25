@@ -6,7 +6,7 @@
     border: 0px;
 
 }
-
+/* dit is de header sectie */
 header
 {
     width: 100%;
@@ -18,9 +18,7 @@ header
   margin:25px;
 }
 
-
-
-
+/* de hoofd content staat in de main */
 main
 {
     width: 100%;
@@ -28,6 +26,7 @@ main
     display: flex;
     align-content: center;
 }
+/* dit is voor de linker sectie */
 #sectionLinks
 {
     border-right: solid 1px #777;
@@ -45,8 +44,10 @@ main
 #sectionLinks h3
 {
   margin: 25px;
-  margin-left: 80px;
+  margin-left: 83px;
 }
+/* dit is voor het midden met het raster */
+
 #sectionMidden
 {
     display: flex;
@@ -55,30 +56,6 @@ main
     width: 70%;
     height: 1000px;
 }
-#sectionRechts
-{
-    border-left: 1px solid #777;
-    width: 15%;
-    height: 1000px;
-}
-#sectionRechts div
-{
-  float: right;
-  margin: 50px;
-  width: 120px;
-  height: 120px;
-  border-radius: 60px;
-  background: yellow;
-}
-#sectionRechts h3
-{
-  float: right;
-  margin: 25px;
-  /* fixt een bug */ margin-top: 0px;
-  margin-right: 80px;
-}
-
-
 #berichten
 {
   border: dotted 1px #777;
@@ -119,6 +96,31 @@ main
   background-color: yellow;
 }
 
+
+/* dit is voor de  rechtersectie van de pagina dit is bijna indentiek aan de linker */
+#sectionRechts
+{
+    border-left: 1px solid #777;
+    width: 15%;
+    height: 1000px;
+}
+#sectionRechts div
+{
+  float: right;
+  margin: 50px;
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  background: yellow;
+}
+#sectionRechts h3
+{
+  float: right;
+  margin: 25px;
+  /* fixt een bug */ margin-top: 0px;
+  margin-right: 83px;
+}
+/*dit is het einde van sectie rechts en begin footer */
 
 footer
 {
